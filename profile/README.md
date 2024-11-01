@@ -1,3 +1,5 @@
-Taggrs is ontwikkeld voor en door marketeers. Ons doel is om de beste tracking toegankelijk te maken voor iedere bedrijf. Tracking kan je marketing campagnes maken of breken, maar goede tracking wordt steeds complexer. Veranderende wetgeving en nieuwe vereisten op het gebied van privacy, zorgen ervoor dat het verkrijgen van goede data steeds lastiger wordt.
+TAGGRS, founded in 2022, is a Server Side Tracking software that ensures advertisers, agencies, and business owners worldwide receive the best website data collection. Thanks to these data collection and analysis solutions, companies can gain in-depth insights into user behavior and improve the performance of their website and campaigns.
 
-Met Taggrs brengen we jou weer in control. Met server side tagging ben je zelf de baas over je data en heb je 100% inzicht en nauwkeurigheid. Gebruik de data voor analyse of voor het meten van conversies. Jij bepaalt.
+TAGGRS features a user-friendly interface that allows users to effortlessly utilize Server Side Tracking and obtain actionable insights for their campaigns.
+
+This starts with Server Side Tracking but will continue to expand as the online marketing landscape evolves. For us, one thing is paramount: our solutions must help companies get the most out of tracking.
